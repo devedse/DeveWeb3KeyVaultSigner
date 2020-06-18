@@ -16,6 +16,7 @@ matrix:
 script:
   - cd Src
   - npm install
+  - tsc
 
 notifications:
   email: false

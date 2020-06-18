@@ -9,3 +9,4 @@ before_build:
 build_script:
   - cd Src
   - npm install
+  - tsc
