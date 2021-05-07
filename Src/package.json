@@ -21,7 +21,7 @@
     "ethereumjs-util": "^7.0.2",
     "ethereumjs-wallet": "^0.6.3",
     "js-sha3": "^0.8.0",
-    "underscore": "^1.10.2",
+    "underscore": "^1.12.1",
     "web3": "^1.2.8",
     "web3-core-helpers": "^1.2.9",
     "web3-eth-accounts": "^1.2.9",
